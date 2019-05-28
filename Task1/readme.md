@@ -1,11 +1,3 @@
-# JS tasks 2
-Bellow is a list of tasks which will also teach you something new about javascript/jquery.  
-Each task will need to include the new js function/method for it to work. Other than that you can use anything we have learnt about js already.  
-You are also to create a front end interface for each one rather than it just showing in the console.  
-
-Feel free to use bootstrap and jQuery in these tasks
-
-
 ### Math.random()
 Math.random() returns a random number between 0 , and 1 (ie, 0.44342843872015725)  
 This function is often used to create a random number generator. When doing that you need to include some extra parameters.
