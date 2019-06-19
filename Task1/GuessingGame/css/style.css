@@ -1,0 +1,9 @@
+.pageContainer{
+    width: 100vw;
+    height: 100vh;
+}
+
+.dice{
+    width: 300px;
+    /* height: 300px; */
+}

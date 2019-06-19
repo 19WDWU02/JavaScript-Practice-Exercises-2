@@ -1,0 +1,21 @@
+.pageContainer{
+    width: 100vw;
+    height: 100vh;
+}
+
+.dice{
+    width: 300px;
+    /* height: 300px; */
+}
+
+.win{
+    color: #1abc9c;
+}
+
+.lose{
+    color: #e74c3c;
+}
+
+.draw{
+    color: #3498db;
+}
